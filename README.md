@@ -1,2 +1,2 @@
 # Swedward.github.io
-My personal website
+My personal website for testing code and learning web-development.
