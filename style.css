@@ -29,6 +29,8 @@ li {
   text-transform: uppercase;
   display: inline-block;
   width: 150px;
+  padding: 0 50px;
+  text-align: left;
 }
 
 li:hover {
