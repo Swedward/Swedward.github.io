@@ -55,6 +55,13 @@ p {
   font-family: Arial;
 }
 
+body {
+  background-image: url('#');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
 .search {
     background-color: #FFF;
     border: 1px solid #DDD;
