@@ -64,3 +64,15 @@ p {
     margin: 50px auto 0px auto;
     width: 77%;
   }
+
+.container {
+  width: 50%;
+  height: 200px;
+  overflow: hidden;
+}
+
+.container img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
